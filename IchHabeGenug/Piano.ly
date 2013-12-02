@@ -33,8 +33,12 @@
 	g16 ees d c d ees | g c d ees d c | c b c b c d |
 	d, aes' g f ees d | ees8 g c~ | c b r8 | r4. | 
 	ees,8 g c~ | c a! r8 |
+	r4. | f8 bes d~ | d g, r8 | r4. | d'8 g bes | ees, c r8 |
+	r4. | d,8 fis a | d fis, r8 | r4. | bes8 d g | ees c r |
+	r4. | c,8 ees aes~ | aes g r8 | r4. | g8 c ees | fis, r r |
+	ees' r r | ees r r | d r r | g, bes d | g d r | r4. |
 } \\ {
-	f8~ | f16 ees f d b8 | c16 b c d ees8~ |
+	f,8~ | f16 ees f d b8 | c16 b c d ees8~ |
 	ees16 d c d ees8~ | ees16 ees f g d ees | 
 	c d ees d ees8~ | ees16 d ees d ees c |
 	g' ees f aes g8~ | g16 f g aes g8~ |
@@ -50,6 +54,10 @@
 	d16 aes' g f g8~ | g16 f ees f g d | ees d ees d ees8~ |
 	ees16 g f ees f g | ees g aes g f ees | d8 d d |
 	g g g | g ees g | f d s8 | s4. | c8 ees g | f c r8 |  
+	r4. | d8 f bes~ | bes d, r | r4. | bes'8 d g~ | g ees r |
+	r4. | a,,8 d fis | a d, r | r4. | g8 bes d | c aes r |
+	r4. | ees8 aes ees | f d r | r4. ees8 g c | c, r r | 
+	c' r r | c r r | fis, r r | d g bes | d bes r | r4. |
 }>>
 	
 
@@ -75,8 +83,13 @@
 	ees aes d, | ees c c | c c c | c c c | c c c | c d d |
 	d g, g | g c c | c c c | c c c | c c c | aes aes aes |
 	g g g | g c ees | f f, r8 | r4. | g8 c ees | a,! f r8 |
+	r4. | bes8 d f~ | f bes, r | r4. | g'8 d bes | c ees r | 
+	r4. | fis8 d a | fis a r | r4. | d8 g bes | aes ees r |
+	r4. | aes8 ees c | d d, r | r4. | c'8 ees g | a r r |
+	a r r | a r r | a r r | g d g | bes g r | r4. |
+
 }\\{
-	s8 s s | c' c c | bes bes bes | aes aes aes | ees ees ees |
+	s8 s s | c, c c | bes bes bes | aes aes aes | ees ees ees |
 	f f f | g g g | c, c c | bes bes bes | aes aes aes | f f f |
 	bes bes bes | aes aes aes |  g g g | ees ees ees | aes aes aes |
 	e'! e e | f f f | e! e e | f f f | ees ees ees | d d d | c c c |
@@ -84,6 +97,10 @@
 	aes aes aes | ees ees ees | f f f | g g g | c c c | bes bes bes |
 	aes aes aes | ees ees ees | f f f | g g g | c, c c | d d d |
 	ees ees ees | c c c | f f f | 
+	ees ees ees | d d d | bes bes bes | ees ees ees | d d d |
+	c c c | a a a | d d d | c c c | bes bes bes | g g g | c c c |
+	b b b | c c c | b b b | c c c | bes bes bes | a a a |
+	g g g | fis fis fis | d d d | g g g | f f f | ees ees' c |
 }>>
 
 }
