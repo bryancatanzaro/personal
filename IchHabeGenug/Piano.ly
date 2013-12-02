@@ -3,7 +3,7 @@
 \header{
 	title = "Ich Habe Genug"
 	composer = "J. S. Bach"
-	instrument = "Piano Reduction"
+	instrument = "Piano"
 	tagline = ""
 }
 
@@ -23,25 +23,33 @@
 	d16 b c b c8~ | c16 aes g f g8~ | g16 g aes bes aes8~ |
 	aes16 bes aes g aes8~ | aes16 g aes g f8~ | 
 	f16 f' g aes d, ees |
-	
 	bes16 aes bes aes bes8~ | bes16 f g f g8~ | g16 f' g aes e! f |
 	bes, des c bes aes g | aes aes' g f e! f | g des c bes aes g |
 	aes g aes f g aes | g f g aes g ees | f ees f g f8~ |
 	f16 f g f e! f | f4.~ | f16 d' ees c d b | c b c f d ees |
+	ees c aes g f g | ees d ees f g8~ | g16 f g f g8~ |
+	g16 f g f g8~ | g16 f g f g8~ | g16 c f g aes8~ |
+	aes16 f ees d c b | c aes g f ees f | g16 f g f g8~ | 
+	g16 ees d c d ees | g c d ees d c | c b c b c d |
+	d, aes' g f ees d | ees8 g c~ | c b r8 | r4. | 
+	ees,8 g c~ | c a! r8 |
 } \\ {
-	f,8~ | f16 ees f d b8 | c16 b c d ees8~ |
+	f8~ | f16 ees f d b8 | c16 b c d ees8~ |
 	ees16 d c d ees8~ | ees16 ees f g d ees | 
 	c d ees d ees8~ | ees16 d ees d ees c |
 	g' ees f aes g8~ | g16 f g aes g8~ |
 	g16 f e! d e8~ | e16 e f g f8~ | 
 	f16 g f e! f8~ | f16 ees! f c d8~ |
 	d16 ees d c bes8~ |
-	
 	bes16 f' g f g8~ | g16 d ees d ees8~ | ees16 d e! f g aes |
 	g f e! d c8 | f16 c' bes aes g aes | bes f e! d c8 |
 	f16 e! f aes g f | g d ees f ees g | aes c, d c b! c |
 	d c d c b! c | d4.~ | d16 b'! c g b g | g8 f aes |
-
+	g c, g'~ | g16 aes g f ees8~ | ees16 d ees d ees8~ |
+    ees16 d c d ees8~ | ees16 d ees d c8~ | c aes' f |
+	d16 aes' g f g8~ | g16 f ees f g d | ees d ees d ees8~ |
+	ees16 g f ees f g | ees g aes g f ees | d8 d d |
+	g g g | g ees g | f d s8 | s4. | c8 ees g | f c r8 |  
 }>>
 	
 
@@ -64,12 +72,18 @@
 	ees ees ees | bes bes bes | aes aes aes | c c c |
 	f, f f | c' c c | f, aes aes | ees' c c | d d d |
 	d d d | g, g g | b! g d' | c c f |
+	ees aes d, | ees c c | c c c | c c c | c c c | c d d |
+	d g, g | g c c | c c c | c c c | c c c | aes aes aes |
+	g g g | g c ees | f f, r8 | r4. | g8 c ees | a,! f r8 |
 }\\{
-	s8 s s | c c c | bes bes bes | aes aes aes | ees ees ees |
+	s8 s s | c' c c | bes bes bes | aes aes aes | ees ees ees |
 	f f f | g g g | c, c c | bes bes bes | aes aes aes | f f f |
 	bes bes bes | aes aes aes |  g g g | ees ees ees | aes aes aes |
 	e'! e e | f f f | e! e e | f f f | ees ees ees | d d d | c c c |
-	b! b b | g g g | c aes f |
+	b! b b | g g g | c aes f | g f g | c' c c | bes bes bes |
+	aes aes aes | ees ees ees | f f f | g g g | c c c | bes bes bes |
+	aes aes aes | ees ees ees | f f f | g g g | c, c c | d d d |
+	ees ees ees | c c c | f f f | 
 }>>
 
 }
