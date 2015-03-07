@@ -174,12 +174,12 @@ verseTwo = \lyricmode { \set stanza = #"2."
 }
 
 verseThree = \lyricmode { \set stanza = #"3."
-	I had learned to call the Fa -- ther,
+	I had learned to call thee Fa -- ther,
 	Thru thy Spir -- it from on high,
 	But, un -- til the key of knowl -- edge
 	Was re -- stored, I knew not why.
 	In the heav'ns are par -- ents sin -- gle?
-	No, the though makes rea -- son stare!
+	No, the thought makes rea -- son stare!
 	Truth is rea -- son, truth e -- ter -- nal
 	Tells me I've a moth -- er there.
 }
